@@ -4,6 +4,7 @@ import { Sidebar } from "./components/Sidebar/Sidebar";
 import { Tooltip } from "./components/Tooltip/Tooltip";
 import { ProgressBar } from "./components/ProgressBar/ProgressBar";
 import "./App.css";
+// import <style></style>
 
 export default function App() {
   return (
